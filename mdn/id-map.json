@@ -1,0 +1,2247 @@
+{
+  "2dcontext": [
+    "API/Canvas_API"
+  ],
+  "2dcontext:canvasrenderingcontext2d": [
+    "API/CanvasRenderingContext2D"
+  ],
+  "animation-frames": [
+    "API/Window/requestAnimationFrame"
+  ],
+  "attr-canvas-height": [
+    "API/HTMLCanvasElement/height"
+  ],
+  "attr-canvas-width": [
+    "API/HTMLCanvasElement/width"
+  ],
+  "attr-contenteditable": [
+    "HTML/Global_attributes/contenteditable"
+  ],
+  "attr-contextmenu": [
+    "HTML/Global_attributes/contextmenu"
+  ],
+  "attr-img-crossorigin": [
+    "HTML/CORS_settings_attributes"
+  ],
+  "attr-is": [
+    "HTML/Global_attributes/is"
+  ],
+  "attr-itemid": [
+    "HTML/Global_attributes/itemid"
+  ],
+  "attr-itemref": [
+    "HTML/Global_attributes/itemref"
+  ],
+  "attr-itemscope": [
+    "HTML/Global_attributes/itemscope"
+  ],
+  "attr-itemtype": [
+    "HTML/Global_attributes/itemtype"
+  ],
+  "attr-link-rel": [
+    "API/HTMLLinkElement/rel"
+  ],
+  "attr-media-crossorigin": [
+    "API/HTMLMediaElement/crossOrigin"
+  ],
+  "attr-nonce": [
+    "API/HTMLElement/nonce"
+  ],
+  "attr-slot": [
+    "HTML/Global_attributes/slot"
+  ],
+  "attr-style-media": [
+    "API/HTMLStyleElement/media"
+  ],
+  "attr-tabindex": [
+    "HTML/Global_attributes/tabindex"
+  ],
+  "attr-translate": [
+    "HTML/Global_attributes/translate"
+  ],
+  "audiotrack": [
+    "API/AudioTrack"
+  ],
+  "audiotracklist": [
+    "API/AudioTrackList"
+  ],
+  "autocapitalization": [
+    "HTML/Global_attributes/autocapitalize"
+  ],
+  "broadcastchannel": [
+    "API/BroadcastChannel"
+  ],
+  "broadcasting-to-other-browsing-contexts": [
+    "API/Broadcast_Channel_API"
+  ],
+  "button-state-(type=button)": [
+    "HTML/Element/input/button"
+  ],
+  "canvasgradient": [
+    "API/CanvasGradient"
+  ],
+  "canvasimagesource": [
+    "API/CanvasImageSource"
+  ],
+  "canvaspattern": [
+    "API/CanvasPattern"
+  ],
+  "channel-messaging": [
+    "API/Channel_Messaging_API",
+    "API/Channel_Messaging_API/Using_channel_messaging"
+  ],
+  "checkbox-state-(type=checkbox)": [
+    "HTML/Element/input/checkbox"
+  ],
+  "classes": [
+    "HTML/Global_attributes/class"
+  ],
+  "closeevent": [
+    "API/CloseEvent/CloseEvent"
+  ],
+  "color-state-(type=color)": [
+    "HTML/Element/input/color"
+  ],
+  "commands": [
+    "HTML/Element/command"
+  ],
+  "contenteditable": [
+    "API/HTMLElement/contentEditable"
+  ],
+  "cors-settings-attributes": [
+    "HTML/CORS_settings_attributes"
+  ],
+  "current-document-readiness": [
+    "API/Document/readyState"
+  ],
+  "custom-handlers": [
+    "API/Navigator/registerProtocolHandler"
+  ],
+  "customelementregistry": [
+    "API/CustomElementRegistry"
+  ],
+  "datatransfer": [
+    "API/DataTransfer"
+  ],
+  "datatransferitem": [
+    "API/DataTransferItem"
+  ],
+  "datatransferitemlist": [
+    "API/DataTransferItemList"
+  ],
+  "date-state-(type=date)": [
+    "HTML/Element/input/date"
+  ],
+  "dedicatedworkerglobalscope": [
+    "API/DedicatedWorkerGlobalScope"
+  ],
+  "dom-a-download": [
+    "API/HTMLAnchorElement/download"
+  ],
+  "dom-a-rel": [
+    "API/HTMLAnchorElement/rel"
+  ],
+  "dom-a-rellist": [
+    "API/HTMLAnchorElement/relList"
+  ],
+  "dom-accesskeylabel": [
+    "API/HTMLElement/accessKeyLabel"
+  ],
+  "dom-alert": [
+    "API/Window/alert"
+  ],
+  "dom-area-rel": [
+    "API/HTMLAreaElement/rel"
+  ],
+  "dom-area-rellist": [
+    "API/HTMLAreaElement/relList"
+  ],
+  "dom-atob": [
+    "API/WindowOrWorkerGlobalScope/atob"
+  ],
+  "dom-audiotrack-enabled": [
+    "API/AudioTrack/enabled"
+  ],
+  "dom-audiotrack-id": [
+    "API/AudioTrack/id"
+  ],
+  "dom-audiotrack-kind": [
+    "API/AudioTrack/kind"
+  ],
+  "dom-audiotrack-label": [
+    "API/AudioTrack/label"
+  ],
+  "dom-audiotrack-language": [
+    "API/AudioTrack/language"
+  ],
+  "dom-audiotracklist-gettrackbyid": [
+    "API/AudioTrackList/getTrackById"
+  ],
+  "dom-audiotracklist-length": [
+    "API/AudioTrackList/length"
+  ],
+  "dom-blur": [
+    "API/HTMLElement/blur"
+  ],
+  "dom-broadcastchannel": [
+    "API/Broadcastchannel/BroadcastChannel"
+  ],
+  "dom-broadcastchannel-close": [
+    "API/Broadcastchannel/close"
+  ],
+  "dom-broadcastchannel-name": [
+    "API/Broadcastchannel/name"
+  ],
+  "dom-broadcastchannel-postmessage": [
+    "API/Broadcastchannel/postMessage"
+  ],
+  "dom-btoa": [
+    "API/WindowOrWorkerGlobalScope/btoa"
+  ],
+  "dom-canvas-getcontext": [
+    "API/HTMLCanvasElement/getContext"
+  ],
+  "dom-canvas-toblob": [
+    "API/HTMLCanvasElement/toBlob"
+  ],
+  "dom-canvas-todataurl": [
+    "API/HTMLCanvasElement/toDataURL"
+  ],
+  "dom-canvasgradient-addcolorstop": [
+    "API/CanvasGradient/addColorStop"
+  ],
+  "dom-canvaspattern-settransform": [
+    "API/CanvasPattern/setTransform"
+  ],
+  "dom-clearinterval": [
+    "API/WindowOrWorkerGlobalScope/clearInterval"
+  ],
+  "dom-cleartimeout": [
+    "API/WindowOrWorkerGlobalScope/clearTimeout"
+  ],
+  "dom-confirm": [
+    "API/Window/confirm"
+  ],
+  "dom-context-2d-arc": [
+    "API/CanvasRenderingContext2D/arc"
+  ],
+  "dom-context-2d-arcto": [
+    "API/CanvasRenderingContext2D/arcTo"
+  ],
+  "dom-context-2d-beginpath": [
+    "API/CanvasRenderingContext2D/beginPath"
+  ],
+  "dom-context-2d-beziercurveto": [
+    "API/CanvasRenderingContext2D/bezierCurveTo"
+  ],
+  "dom-context-2d-canvas": [
+    "API/CanvasRenderingContext2D/canvas"
+  ],
+  "dom-context-2d-clearrect": [
+    "API/CanvasRenderingContext2D/clearRect"
+  ],
+  "dom-context-2d-clip": [
+    "API/CanvasRenderingContext2D/clip"
+  ],
+  "dom-context-2d-closepath": [
+    "API/CanvasRenderingContext2D/closePath"
+  ],
+  "dom-context-2d-createimagedata": [
+    "API/CanvasRenderingContext2D/createImageData"
+  ],
+  "dom-context-2d-createlineargradient": [
+    "API/CanvasRenderingContext2D/createLinearGradient"
+  ],
+  "dom-context-2d-createpattern": [
+    "API/CanvasRenderingContext2D/createPattern"
+  ],
+  "dom-context-2d-createradialgradient": [
+    "API/CanvasRenderingContext2D/createRadialGradient"
+  ],
+  "dom-context-2d-direction": [
+    "API/CanvasRenderingContext2D/direction"
+  ],
+  "dom-context-2d-drawfocusifneeded": [
+    "API/CanvasRenderingContext2D/drawFocusIfNeeded"
+  ],
+  "dom-context-2d-drawimage": [
+    "API/CanvasRenderingContext2D/drawImage"
+  ],
+  "dom-context-2d-ellipse": [
+    "API/CanvasRenderingContext2D/ellipse"
+  ],
+  "dom-context-2d-fill": [
+    "API/CanvasRenderingContext2D/fill"
+  ],
+  "dom-context-2d-fillrect": [
+    "API/CanvasRenderingContext2D/fillRect"
+  ],
+  "dom-context-2d-fillstyle": [
+    "API/CanvasRenderingContext2D/fillStyle"
+  ],
+  "dom-context-2d-filltext": [
+    "API/CanvasRenderingContext2D/fillText"
+  ],
+  "dom-context-2d-font": [
+    "API/CanvasRenderingContext2D/font"
+  ],
+  "dom-context-2d-getimagedata": [
+    "API/CanvasRenderingContext2D/getImageData"
+  ],
+  "dom-context-2d-getlinedash": [
+    "API/CanvasRenderingContext2D/getLineDash"
+  ],
+  "dom-context-2d-globalalpha": [
+    "API/CanvasRenderingContext2D/globalAlpha"
+  ],
+  "dom-context-2d-globalcompositeoperation": [
+    "API/CanvasRenderingContext2D/globalCompositeOperation"
+  ],
+  "dom-context-2d-imagesmoothingenabled": [
+    "API/CanvasRenderingContext2D/imageSmoothingEnabled"
+  ],
+  "dom-context-2d-ispointinpath": [
+    "API/CanvasRenderingContext2D/isPointInPath"
+  ],
+  "dom-context-2d-ispointinstroke": [
+    "API/CanvasRenderingContext2D/isPointInStroke"
+  ],
+  "dom-context-2d-linecap": [
+    "API/CanvasRenderingContext2D/lineCap"
+  ],
+  "dom-context-2d-linedashoffset": [
+    "API/CanvasRenderingContext2D/lineDashOffset"
+  ],
+  "dom-context-2d-linejoin": [
+    "API/CanvasRenderingContext2D/lineJoin"
+  ],
+  "dom-context-2d-lineto": [
+    "API/CanvasRenderingContext2D/lineTo"
+  ],
+  "dom-context-2d-linewidth": [
+    "API/CanvasRenderingContext2D/lineWidth"
+  ],
+  "dom-context-2d-measuretext": [
+    "API/CanvasRenderingContext2D/measureText"
+  ],
+  "dom-context-2d-miterlimit": [
+    "API/CanvasRenderingContext2D/miterLimit"
+  ],
+  "dom-context-2d-moveto": [
+    "API/CanvasRenderingContext2D/moveTo"
+  ],
+  "dom-context-2d-putimagedata": [
+    "API/CanvasRenderingContext2D/putImageData"
+  ],
+  "dom-context-2d-quadraticcurveto": [
+    "API/CanvasRenderingContext2D/quadraticCurveTo"
+  ],
+  "dom-context-2d-rect": [
+    "API/CanvasRenderingContext2D/rect"
+  ],
+  "dom-context-2d-resettransform": [
+    "API/CanvasRenderingContext2D/resetTransform"
+  ],
+  "dom-context-2d-restore": [
+    "API/CanvasRenderingContext2D/restore"
+  ],
+  "dom-context-2d-rotate": [
+    "API/CanvasRenderingContext2D/rotate"
+  ],
+  "dom-context-2d-save": [
+    "API/CanvasRenderingContext2D/save"
+  ],
+  "dom-context-2d-scale": [
+    "API/CanvasRenderingContext2D/scale"
+  ],
+  "dom-context-2d-scrollpathintoview": [
+    "API/CanvasRenderingContext2D/scrollPathIntoView"
+  ],
+  "dom-context-2d-setlinedash": [
+    "API/CanvasRenderingContext2D/setLineDash"
+  ],
+  "dom-context-2d-settransform": [
+    "API/CanvasRenderingContext2D/setTransform"
+  ],
+  "dom-context-2d-shadowblur": [
+    "API/CanvasRenderingContext2D/shadowBlur"
+  ],
+  "dom-context-2d-shadowcolor": [
+    "API/CanvasRenderingContext2D/shadowColor"
+  ],
+  "dom-context-2d-shadowoffsetx": [
+    "API/CanvasRenderingContext2D/shadowOffsetX"
+  ],
+  "dom-context-2d-shadowoffsety": [
+    "API/CanvasRenderingContext2D/shadowOffsetY"
+  ],
+  "dom-context-2d-stroke": [
+    "API/CanvasRenderingContext2D/stroke"
+  ],
+  "dom-context-2d-strokerect": [
+    "API/CanvasRenderingContext2D/strokeRect"
+  ],
+  "dom-context-2d-strokestyle": [
+    "API/CanvasRenderingContext2D/strokeStyle"
+  ],
+  "dom-context-2d-stroketext": [
+    "API/CanvasRenderingContext2D/strokeText"
+  ],
+  "dom-context-2d-textalign": [
+    "API/CanvasRenderingContext2D/textAlign"
+  ],
+  "dom-context-2d-textbaseline": [
+    "API/CanvasRenderingContext2D/textBaseline"
+  ],
+  "dom-context-2d-transform": [
+    "API/CanvasRenderingContext2D/transform"
+  ],
+  "dom-context-2d-translate": [
+    "API/CanvasRenderingContext2D/translate"
+  ],
+  "dom-createimagebitmap": [
+    "API/WindowOrWorkerGlobalScope/createImageBitmap"
+  ],
+  "dom-customelementregistry-define": [
+    "API/CustomElementRegistry/define"
+  ],
+  "dom-customelementregistry-get": [
+    "API/CustomElementRegistry/get"
+  ],
+  "dom-customelementregistry-whendefined": [
+    "API/CustomElementRegistry/whenDefined"
+  ],
+  "dom-cva-checkvalidity": [
+    "API/HTMLSelectElement/checkValidity"
+  ],
+  "dom-cva-reportvalidity": [
+    "API/HTMLFormElement/reportValidity"
+  ],
+  "dom-cva-setcustomvalidity": [
+    "API/HTMLSelectElement/setCustomValidity"
+  ],
+  "dom-data-value": [
+    "API/HTMLDataElement/value"
+  ],
+  "dom-dataset": [
+    "API/HTMLElement/dataset"
+  ],
+  "dom-datatransfer-cleardata": [
+    "API/DataTransfer/clearData"
+  ],
+  "dom-datatransfer-dropeffect": [
+    "API/DataTransfer/dropEffect"
+  ],
+  "dom-datatransfer-effectallowed": [
+    "API/DataTransfer/effectAllowed"
+  ],
+  "dom-datatransfer-files": [
+    "API/DataTransfer/files"
+  ],
+  "dom-datatransfer-getdata": [
+    "API/DataTransfer/getData"
+  ],
+  "dom-datatransfer-items": [
+    "API/DataTransfer/items"
+  ],
+  "dom-datatransfer-setdata": [
+    "API/DataTransfer/setData"
+  ],
+  "dom-datatransfer-setdragimage": [
+    "API/DataTransfer/setDragImage"
+  ],
+  "dom-datatransfer-types": [
+    "API/DataTransfer/types"
+  ],
+  "dom-datatransferitem-getasfile": [
+    "API/DataTransferItem/getAsFile"
+  ],
+  "dom-datatransferitem-getasstring": [
+    "API/DataTransferItem/getAsString"
+  ],
+  "dom-datatransferitem-kind": [
+    "API/DataTransferItem/kind"
+  ],
+  "dom-datatransferitem-type": [
+    "API/DataTransferItem/type"
+  ],
+  "dom-datatransferitemlist-add": [
+    "API/DataTransferItemList/add"
+  ],
+  "dom-datatransferitemlist-clear": [
+    "API/DataTransferItemList/clear"
+  ],
+  "dom-datatransferitemlist-length": [
+    "API/DataTransferItemList/length"
+  ],
+  "dom-datatransferitemlist-remove": [
+    "API/DataTransferItemList/remove"
+  ],
+  "dom-dedicatedworkerglobalscope-close": [
+    "API/DedicatedWorkerGlobalScope/close",
+    "API/WorkerGlobalScope/close"
+  ],
+  "dom-dedicatedworkerglobalscope-name": [
+    "API/DedicatedWorkerGlobalScope/name"
+  ],
+  "dom-dedicatedworkerglobalscope-postmessage": [
+    "API/DedicatedWorkerGlobalScope/postMessage"
+  ],
+  "dom-dialog-close": [
+    "API/HTMLDialogElement/close"
+  ],
+  "dom-dialog-open": [
+    "API/HTMLDialogElement/open"
+  ],
+  "dom-dialog-returnvalue": [
+    "API/HTMLDialogElement/returnValue"
+  ],
+  "dom-dialog-show": [
+    "API/HTMLDialogElement/show"
+  ],
+  "dom-dialog-showmodal": [
+    "API/HTMLDialogElement/showModal"
+  ],
+  "dom-dir": [
+    "API/HTMLElement/dir"
+  ],
+  "dom-document-2": [
+    "API/Window/document"
+  ],
+  "dom-document-anchors": [
+    "API/Document/anchors"
+  ],
+  "dom-document-applets": [
+    "API/Document/applets"
+  ],
+  "dom-document-body": [
+    "API/Document/body"
+  ],
+  "dom-document-currentscript": [
+    "API/Document/currentScript"
+  ],
+  "dom-document-defaultview": [
+    "API/Document/defaultView"
+  ],
+  "dom-document-dir": [
+    "API/Document/dir"
+  ],
+  "dom-document-embeds": [
+    "API/Document/embeds"
+  ],
+  "dom-document-forms": [
+    "API/Document/forms"
+  ],
+  "dom-document-getelementsbyname": [
+    "API/Document/getElementsByName"
+  ],
+  "dom-document-hasfocus": [
+    "API/Document/hasFocus"
+  ],
+  "dom-document-head": [
+    "API/Document/head"
+  ],
+  "dom-document-images": [
+    "API/Document/images"
+  ],
+  "dom-document-links": [
+    "API/Document/links"
+  ],
+  "dom-document-plugins": [
+    "API/Document/plugins"
+  ],
+  "dom-document-scripts": [
+    "API/Document/scripts"
+  ],
+  "dom-dragevent-datatransfer": [
+    "API/DragEvent/dataTransfer"
+  ],
+  "dom-eventsource": [
+    "API/EventSource/EventSource"
+  ],
+  "dom-eventsource-close": [
+    "API/EventSource/close"
+  ],
+  "dom-eventsource-readystate": [
+    "API/EventSource/readyState"
+  ],
+  "dom-eventsource-url": [
+    "API/EventSource/url"
+  ],
+  "dom-eventsource-withcredentials": [
+    "API/EventSource/withCredentials"
+  ],
+  "dom-fae-form": [
+    "API/HTMLSelectElement/form"
+  ],
+  "dom-fe-autofocus": [
+    "API/HTMLSelectElement/autofocus"
+  ],
+  "dom-fe-disabled": [
+    "API/HTMLSelectElement/disabled"
+  ],
+  "dom-focus": [
+    "API/HTMLElement/focus"
+  ],
+  "dom-form-elements": [
+    "API/HTMLFormElement/elements"
+  ],
+  "dom-frameelement": [
+    "API/Window/frameElement"
+  ],
+  "dom-frames": [
+    "API/Window/frames"
+  ],
+  "dom-hashchangeevent-newurl": [
+    "API/HashChangeEvent/newURL"
+  ],
+  "dom-hashchangeevent-oldurl": [
+    "API/HashChangeEvent/oldURL"
+  ],
+  "dom-hidden": [
+    "API/HTMLElement/hidden"
+  ],
+  "dom-history-length": [
+    "API/History/length"
+  ],
+  "dom-htmlformcontrolscollection-nameditem": [
+    "API/HTMLFormControlsCollection/namedItem"
+  ],
+  "dom-hyperlink-hash": [
+    "API/HTMLHyperlinkElementUtils/hash"
+  ],
+  "dom-hyperlink-host": [
+    "API/HTMLHyperlinkElementUtils/host"
+  ],
+  "dom-hyperlink-hostname": [
+    "API/HTMLHyperlinkElementUtils/hostname"
+  ],
+  "dom-hyperlink-href": [
+    "API/HTMLHyperlinkElementUtils/href"
+  ],
+  "dom-hyperlink-origin": [
+    "API/HTMLHyperlinkElementUtils/origin"
+  ],
+  "dom-hyperlink-password": [
+    "API/HTMLHyperlinkElementUtils/password"
+  ],
+  "dom-hyperlink-pathname": [
+    "API/HTMLHyperlinkElementUtils/pathname"
+  ],
+  "dom-hyperlink-port": [
+    "API/HTMLHyperlinkElementUtils/port"
+  ],
+  "dom-hyperlink-protocol": [
+    "API/HTMLHyperlinkElementUtils/protocol"
+  ],
+  "dom-hyperlink-search": [
+    "API/HTMLHyperlinkElementUtils/search"
+  ],
+  "dom-hyperlink-username": [
+    "API/HTMLHyperlinkElementUtils/username"
+  ],
+  "dom-image": [
+    "API/HTMLImageElement/Image"
+  ],
+  "dom-imagebitmap-close": [
+    "API/ImageBitmap/close"
+  ],
+  "dom-imagebitmap-height": [
+    "API/ImageBitmap/height"
+  ],
+  "dom-imagebitmap-width": [
+    "API/ImageBitmap/width"
+  ],
+  "dom-imagedata": [
+    "API/ImageData/ImageData"
+  ],
+  "dom-imagedata-data": [
+    "API/ImageData/data"
+  ],
+  "dom-imagedata-height": [
+    "API/ImageData/height"
+  ],
+  "dom-imagedata-width": [
+    "API/ImageData/width"
+  ],
+  "dom-iscontenteditable": [
+    "API/HTMLElement/isContentEditable"
+  ],
+  "dom-label-control": [
+    "API/HTMLLabelElement/control"
+  ],
+  "dom-label-form": [
+    "API/HTMLLabelElement/form"
+  ],
+  "dom-label-htmlfor": [
+    "API/HTMLLabelElement/htmlFor"
+  ],
+  "dom-length": [
+    "API/Window/length"
+  ],
+  "dom-lfe-labels": [
+    "API/HTMLButtonElement/labels",
+    "API/HTMLInputElement/labels",
+    "API/HTMLMeterElement/labels",
+    "API/HTMLOutputElement/labels",
+    "API/HTMLProgressElement/labels",
+    "API/HTMLSelectElement/labels",
+    "API/HTMLTextAreaElement/labels"
+  ],
+  "dom-link-rellist": [
+    "API/HTMLLinkElement/relList"
+  ],
+  "dom-localstorage": [
+    "API/Window/localStorage"
+  ],
+  "dom-location-assign": [
+    "API/Location/assign"
+  ],
+  "dom-location-reload": [
+    "API/Location/reload"
+  ],
+  "dom-location-replace": [
+    "API/Location/replace"
+  ],
+  "dom-media-audiotracks": [
+    "API/HTMLMediaElement/audioTracks"
+  ],
+  "dom-media-autoplay": [
+    "API/HTMLMediaElement/autoplay"
+  ],
+  "dom-media-controls": [
+    "API/HTMLMediaElement/controls"
+  ],
+  "dom-media-currentsrc": [
+    "API/HTMLMediaElement/currentSrc"
+  ],
+  "dom-media-currenttime": [
+    "API/HTMLMediaElement/currentTime"
+  ],
+  "dom-media-defaultmuted": [
+    "API/HTMLMediaElement/defaultMuted"
+  ],
+  "dom-media-defaultplaybackrate": [
+    "API/HTMLMediaElement/defaultPlaybackRate"
+  ],
+  "dom-media-duration": [
+    "API/HTMLMediaElement/duration"
+  ],
+  "dom-media-ended": [
+    "API/HTMLMediaElement/ended"
+  ],
+  "dom-media-error": [
+    "API/HTMLMediaElement/error"
+  ],
+  "dom-media-fastseek": [
+    "API/HTMLMediaElement/fastSeek"
+  ],
+  "dom-media-loop": [
+    "API/HTMLMediaElement/loop"
+  ],
+  "dom-media-muted": [
+    "API/HTMLMediaElement/muted"
+  ],
+  "dom-media-networkstate": [
+    "API/HTMLMediaElement/networkState"
+  ],
+  "dom-media-pause": [
+    "API/HTMLMediaElement/pause"
+  ],
+  "dom-media-paused": [
+    "API/HTMLMediaElement/paused"
+  ],
+  "dom-media-play": [
+    "API/HTMLMediaElement/play"
+  ],
+  "dom-media-playbackrate": [
+    "API/HTMLMediaElement/playbackRate"
+  ],
+  "dom-media-readystate": [
+    "API/HTMLMediaElement/readyState"
+  ],
+  "dom-media-seekable": [
+    "API/HTMLMediaElement/seekable"
+  ],
+  "dom-media-src": [
+    "API/HTMLMediaElement/src"
+  ],
+  "dom-media-srcobject": [
+    "API/HTMLMediaElement/srcObject"
+  ],
+  "dom-media-volume": [
+    "API/HTMLMediaElement/volume"
+  ],
+  "dom-mediaerror-code": [
+    "API/MediaError/code"
+  ],
+  "dom-mediaerror-message": [
+    "API/MediaError/message"
+  ],
+  "dom-messagechannel": [
+    "API/MessageChannel/MessageChannel"
+  ],
+  "dom-messagechannel-port1": [
+    "API/MessageChannel/port1"
+  ],
+  "dom-messagechannel-port2": [
+    "API/MessageChannel/port2"
+  ],
+  "dom-messageevent-ports": [
+    "API/MessageEvent/ports"
+  ],
+  "dom-messageport-close": [
+    "API/MessagePort/close"
+  ],
+  "dom-messageport-postmessage": [
+    "API/MessagePort/postMessage"
+  ],
+  "dom-messageport-start": [
+    "API/MessagePort/start"
+  ],
+  "dom-name": [
+    "API/Window/name"
+  ],
+  "dom-navigator-appcodename": [
+    "API/NavigatorID/appCodeName"
+  ],
+  "dom-navigator-appname": [
+    "API/NavigatorID/appName"
+  ],
+  "dom-navigator-appversion": [
+    "API/NavigatorID/appVersion"
+  ],
+  "dom-navigator-canplaytype": [
+    "API/HTMLMediaElement/canPlayType"
+  ],
+  "dom-navigator-cookieenabled": [
+    "API/Navigator/cookieEnabled"
+  ],
+  "dom-navigator-hardwareconcurrency": [
+    "API/NavigatorConcurrentHardware/hardwareConcurrency"
+  ],
+  "dom-navigator-javaenabled": [
+    "API/NavigatorPlugins/javaEnabled"
+  ],
+  "dom-navigator-mimetypes": [
+    "API/NavigatorPlugins/mimeTypes"
+  ],
+  "dom-navigator-platform": [
+    "API/NavigatorID/platform"
+  ],
+  "dom-navigator-plugins": [
+    "API/NavigatorPlugins/plugins"
+  ],
+  "dom-navigator-product": [
+    "API/NavigatorID/product"
+  ],
+  "dom-navigator-taintenabled": [
+    "API/NavigatorID/taintEnabled"
+  ],
+  "dom-navigator-useragent": [
+    "API/NavigatorID/userAgent"
+  ],
+  "dom-navigator-vendorsub": [
+    "API/Navigator/vendorSub"
+  ],
+  "dom-object-typemustmatch": [
+    "API/HTMLObjectElement/typeMustMatch"
+  ],
+  "dom-offscreencanvas": [
+    "API/OffscreenCanvas/OffscreenCanvas"
+  ],
+  "dom-offscreencanvas-getcontext": [
+    "API/OffscreenCanvas/getContext"
+  ],
+  "dom-offscreencanvas-height": [
+    "API/OffscreenCanvas/height"
+  ],
+  "dom-offscreencanvas-transfertoimagebitmap": [
+    "API/OffscreenCanvas/transferToImageBitmap"
+  ],
+  "dom-offscreencanvas-width": [
+    "API/OffscreenCanvas/width"
+  ],
+  "dom-open": [
+    "API/Window/open"
+  ],
+  "dom-origin": [
+    "API/WindowOrWorkerGlobalScope/origin"
+  ],
+  "dom-pagetransitionevent-persisted": [
+    "API/PageTransitionEvent/persisted"
+  ],
+  "dom-path2d": [
+    "API/Path2D",
+    "API/Path2D/Path2D"
+  ],
+  "dom-path2d-addpath": [
+    "API/Path2D/addPath"
+  ],
+  "dom-plugin": [
+    "API/Plugin"
+  ],
+  "dom-promiserejectionevent-promise": [
+    "API/PromiseRejectionEvent/promise"
+  ],
+  "dom-promiserejectionevent-reason": [
+    "API/PromiseRejectionEvent/reason"
+  ],
+  "dom-prompt": [
+    "API/Window/prompt"
+  ],
+  "dom-radionodelist-value": [
+    "API/RadioNodeList/value"
+  ],
+  "dom-select-add": [
+    "API/HTMLSelectElement/add"
+  ],
+  "dom-select-item": [
+    "API/HTMLSelectElement/item"
+  ],
+  "dom-select-nameditem": [
+    "API/HTMLSelectElement/namedItem"
+  ],
+  "dom-select-remove": [
+    "API/HTMLSelectElement/remove"
+  ],
+  "dom-select-selectedindex": [
+    "API/HTMLSelectElement/selectedIndex"
+  ],
+  "dom-select-selectedoptions": [
+    "API/HTMLSelectElement/selectedOptions"
+  ],
+  "dom-select-type": [
+    "API/HTMLSelectElement/type"
+  ],
+  "dom-self": [
+    "API/Window/self"
+  ],
+  "dom-sessionstorage": [
+    "API/Window/sessionStorage"
+  ],
+  "dom-setinterval": [
+    "API/WindowOrWorkerGlobalScope/setInterval"
+  ],
+  "dom-settimeout": [
+    "API/WindowOrWorkerGlobalScope/setTimeout"
+  ],
+  "dom-sharedworker": [
+    "API/SharedWorker/SharedWorker"
+  ],
+  "dom-sharedworker-port": [
+    "API/SharedWorker/port"
+  ],
+  "dom-sharedworkerglobalscope-close": [
+    "API/SharedWorkerGlobalScope/close"
+  ],
+  "dom-sharedworkerglobalscope-name": [
+    "API/SharedWorkerGlobalScope/name"
+  ],
+  "dom-slot-assignednodes": [
+    "API/HTMLSlotElement/assignedNodes"
+  ],
+  "dom-slot-name": [
+    "API/HTMLSlotElement/name"
+  ],
+  "dom-storage-clear": [
+    "API/Storage/clear"
+  ],
+  "dom-storage-getitem": [
+    "API/Storage/getItem"
+  ],
+  "dom-storage-key": [
+    "API/Storage/key"
+  ],
+  "dom-storage-length": [
+    "API/Storage/length"
+  ],
+  "dom-storage-removeitem": [
+    "API/Storage/removeItem"
+  ],
+  "dom-storage-setitem": [
+    "API/Storage/setItem"
+  ],
+  "dom-tabindex": [
+    "API/HTMLElement/tabIndex"
+  ],
+  "dom-table-caption": [
+    "API/HTMLTableElement/caption"
+  ],
+  "dom-table-insertrow": [
+    "API/HTMLTableElement/insertRow"
+  ],
+  "dom-table-tfoot": [
+    "API/HTMLTableElement/tFoot"
+  ],
+  "dom-table-thead": [
+    "API/HTMLTableElement/tHead"
+  ],
+  "dom-template-content": [
+    "API/HTMLTemplateElement/content"
+  ],
+  "dom-textarea/input-select": [
+    "API/HTMLInputElement/select"
+  ],
+  "dom-textarea/input-setselectionrange": [
+    "API/HTMLInputElement/setSelectionRange"
+  ],
+  "dom-textmetrics-width": [
+    "API/TextMetrics/width"
+  ],
+  "dom-time-datetime": [
+    "API/HTMLTimeElement/dateTime"
+  ],
+  "dom-timeranges-end": [
+    "API/TimeRanges/end"
+  ],
+  "dom-timeranges-length": [
+    "API/TimeRanges/length"
+  ],
+  "dom-timeranges-start": [
+    "API/TimeRanges/start"
+  ],
+  "dom-title": [
+    "API/HTMLElement/title"
+  ],
+  "dom-top": [
+    "API/Window/top"
+  ],
+  "dom-tr-insertcell": [
+    "API/HTMLTableRowElement/insertCell"
+  ],
+  "dom-track-src": [
+    "API/HTMLTrackElement/src"
+  ],
+  "dom-validitystate-badinput": [
+    "API/ValidityState/badInput"
+  ],
+  "dom-validitystate-toolong": [
+    "API/ValidityState/tooLong"
+  ],
+  "dom-websocket": [
+    "API/WebSocket/WebSocket"
+  ],
+  "dom-websocket-binarytype": [
+    "API/WebSocket/binaryType"
+  ],
+  "dom-websocket-bufferedamount": [
+    "API/WebSocket/bufferedAmount"
+  ],
+  "dom-websocket-close": [
+    "API/WebSocket/close"
+  ],
+  "dom-websocket-extensions": [
+    "API/WebSocket/extensions"
+  ],
+  "dom-websocket-protocol": [
+    "API/WebSocket/protocol"
+  ],
+  "dom-websocket-readystate": [
+    "API/WebSocket/readyState"
+  ],
+  "dom-websocket-send": [
+    "API/WebSocket/send"
+  ],
+  "dom-websocket-url": [
+    "API/WebSocket/url"
+  ],
+  "dom-window": [
+    "API/Window/window"
+  ],
+  "dom-window-blur": [
+    "API/Window/blur"
+  ],
+  "dom-window-close": [
+    "API/Window/close"
+  ],
+  "dom-window-customelements": [
+    "API/Window/customElements"
+  ],
+  "dom-window-focus": [
+    "API/Window/focus"
+  ],
+  "dom-window-locationbar": [
+    "API/Window/locationbar"
+  ],
+  "dom-window-menubar": [
+    "API/Window/menubar"
+  ],
+  "dom-window-personalbar": [
+    "API/Window/personalbar"
+  ],
+  "dom-window-postmessage": [
+    "API/Window/postMessage"
+  ],
+  "dom-window-scrollbars": [
+    "API/Window/scrollbars"
+  ],
+  "dom-window-statusbar": [
+    "API/Window/statusbar"
+  ],
+  "dom-window-stop": [
+    "API/Window/stop"
+  ],
+  "dom-window-toolbar": [
+    "API/Window/toolbar"
+  ],
+  "dom-worker": [
+    "API/Worker/Worker"
+  ],
+  "dom-worker-navigator": [
+    "API/WorkerGlobalScope/navigator"
+  ],
+  "dom-worker-postmessage": [
+    "API/Worker/postMessage"
+  ],
+  "dom-worker-terminate": [
+    "API/Worker/terminate"
+  ],
+  "dom-workerglobalscope-importscripts": [
+    "API/WorkerGlobalScope/importScripts"
+  ],
+  "dom-workerglobalscope-location": [
+    "API/WorkerGlobalScope/location"
+  ],
+  "dom-workerglobalscope-self": [
+    "API/WorkerGlobalScope/self"
+  ],
+  "dragevent": [
+    "API/DragEvent"
+  ],
+  "e-mail-state-(type=email)": [
+    "HTML/Element/input/email"
+  ],
+  "embedding-custom-non-visible-data-with-the-data-*-attributes": [
+    "HTML/Global_attributes/data-*"
+  ],
+  "event-handler-attributes": [
+    "Guide/Events/Event_handlers"
+  ],
+  "event-input-input": [
+    "API/GlobalEventHandlers/oninput"
+  ],
+  "fakepath-srsly": [
+    "HTML/Element/input"
+  ],
+  "file-upload-state-(type=file)": [
+    "HTML/Element/input/file"
+  ],
+  "filters": [
+    "API/CanvasRenderingContext2D/filter"
+  ],
+  "global-attributes": [
+    "HTML/Global_attributes"
+  ],
+  "globaleventhandlers": [
+    "API/GlobalEventHandlers"
+  ],
+  "handler-abstractworker-onerror": [
+    "API/AbstractWorker/onerror"
+  ],
+  "handler-broadcastchannel-onmessage": [
+    "API/Broadcastchannel/onmessage"
+  ],
+  "handler-broadcastchannel-onmessageerror": [
+    "API/Broadcastchannel/onmessageerror"
+  ],
+  "handler-dedicatedworkerglobalscope-onmessage": [
+    "API/DedicatedWorkerGlobalScope/onmessage"
+  ],
+  "handler-dedicatedworkerglobalscope-onmessageerror": [
+    "API/DedicatedWorkerGlobalScope/onmessageerror"
+  ],
+  "handler-eventsource-onerror": [
+    "API/EventSource/onerror"
+  ],
+  "handler-eventsource-onmessage": [
+    "API/EventSource/onmessage"
+  ],
+  "handler-eventsource-onopen": [
+    "API/EventSource/onopen"
+  ],
+  "handler-messageport-onmessage": [
+    "API/MessagePort/onmessage"
+  ],
+  "handler-messageport-onmessageerror": [
+    "API/MessagePort/onmessageerror"
+  ],
+  "handler-onabort": [
+    "API/GlobalEventHandlers/onabort"
+  ],
+  "handler-onblur": [
+    "API/GlobalEventHandlers/onblur"
+  ],
+  "handler-oncancel": [
+    "API/GlobalEventHandlers/oncancel"
+  ],
+  "handler-oncanplay": [
+    "API/GlobalEventHandlers/oncanplay"
+  ],
+  "handler-oncanplaythrough": [
+    "API/GlobalEventHandlers/oncanplaythrough"
+  ],
+  "handler-onchange": [
+    "API/GlobalEventHandlers/onchange"
+  ],
+  "handler-onclick": [
+    "API/GlobalEventHandlers/onclick"
+  ],
+  "handler-onclose": [
+    "API/GlobalEventHandlers/onclose"
+  ],
+  "handler-oncontextmenu": [
+    "API/GlobalEventHandlers/oncontextmenu"
+  ],
+  "handler-oncuechange": [
+    "API/GlobalEventHandlers/oncuechange"
+  ],
+  "handler-ondblclick": [
+    "API/GlobalEventHandlers/ondblclick"
+  ],
+  "handler-ondurationchange": [
+    "API/GlobalEventHandlers/ondurationchange"
+  ],
+  "handler-onemptied": [
+    "API/GlobalEventHandlers/onemptied"
+  ],
+  "handler-onended": [
+    "API/GlobalEventHandlers/onended"
+  ],
+  "handler-onerror": [
+    "API/GlobalEventHandlers/onerror",
+    "API/HTMLMediaElement/onerror"
+  ],
+  "handler-onfocus": [
+    "API/GlobalEventHandlers/onfocus"
+  ],
+  "handler-oninvalid": [
+    "API/GlobalEventHandlers/oninvalid"
+  ],
+  "handler-onkeydown": [
+    "API/GlobalEventHandlers/onkeydown"
+  ],
+  "handler-onkeypress": [
+    "API/GlobalEventHandlers/onkeypress"
+  ],
+  "handler-onkeyup": [
+    "API/GlobalEventHandlers/onkeyup"
+  ],
+  "handler-onload": [
+    "API/GlobalEventHandlers/onload"
+  ],
+  "handler-onloadeddata": [
+    "API/GlobalEventHandlers/onloadeddata"
+  ],
+  "handler-onloadedmetadata": [
+    "API/GlobalEventHandlers/onloadedmetadata"
+  ],
+  "handler-onloadend": [
+    "API/GlobalEventHandlers/onloadend"
+  ],
+  "handler-onloadstart": [
+    "API/GlobalEventHandlers/onloadstart"
+  ],
+  "handler-onmousedown": [
+    "API/GlobalEventHandlers/onmousedown"
+  ],
+  "handler-onmouseenter": [
+    "API/GlobalEventHandlers/onmouseenter"
+  ],
+  "handler-onmouseleave": [
+    "API/GlobalEventHandlers/onmouseleave"
+  ],
+  "handler-onmousemove": [
+    "API/GlobalEventHandlers/onmousemove"
+  ],
+  "handler-onmouseout": [
+    "API/GlobalEventHandlers/onmouseout"
+  ],
+  "handler-onmouseover": [
+    "API/GlobalEventHandlers/onmouseover"
+  ],
+  "handler-onmouseup": [
+    "API/GlobalEventHandlers/onmouseup"
+  ],
+  "handler-onpause": [
+    "API/GlobalEventHandlers/onpause"
+  ],
+  "handler-onplay": [
+    "API/GlobalEventHandlers/onplay"
+  ],
+  "handler-onreset": [
+    "API/GlobalEventHandlers/onreset"
+  ],
+  "handler-onresize": [
+    "API/GlobalEventHandlers/onresize"
+  ],
+  "handler-onselect": [
+    "API/GlobalEventHandlers/onselect"
+  ],
+  "handler-onsubmit": [
+    "API/GlobalEventHandlers/onsubmit"
+  ],
+  "handler-onwheel": [
+    "API/GlobalEventHandlers/onwheel"
+  ],
+  "handler-sharedworkerglobalscope-onconnect": [
+    "API/SharedWorkerGlobalScope/onconnect"
+  ],
+  "handler-tracklist-onaddtrack": [
+    "API/AudioTrackList/onaddtrack"
+  ],
+  "handler-tracklist-onchange": [
+    "API/AudioTrackList/onchange"
+  ],
+  "handler-tracklist-onremovetrack": [
+    "API/AudioTrackList/onremovetrack"
+  ],
+  "handler-websocket-onclose": [
+    "API/WebSocket/onclose"
+  ],
+  "handler-websocket-onerror": [
+    "API/WebSocket/onerror"
+  ],
+  "handler-websocket-onmessage": [
+    "API/WebSocket/onmessage"
+  ],
+  "handler-websocket-onopen": [
+    "API/WebSocket/onopen"
+  ],
+  "handler-window-onafterprint": [
+    "API/WindowEventHandlers/onafterprint"
+  ],
+  "handler-window-onbeforeprint": [
+    "API/WindowEventHandlers/onbeforeprint"
+  ],
+  "handler-window-onbeforeunload": [
+    "API/WindowEventHandlers/onbeforeunload"
+  ],
+  "handler-window-onhashchange": [
+    "API/WindowEventHandlers/onhashchange"
+  ],
+  "handler-window-onmessage": [
+    "API/WindowEventHandlers/onmessage"
+  ],
+  "handler-window-onmessageerror": [
+    "API/WindowEventHandlers/onmessageerror"
+  ],
+  "handler-window-onrejectionhandled": [
+    "API/WindowEventHandlers/onrejectionhandled"
+  ],
+  "handler-window-onstorage": [
+    "API/WindowEventHandlers/onstorage"
+  ],
+  "handler-window-onunhandledrejection": [
+    "API/WindowEventHandlers/onunhandledrejection"
+  ],
+  "handler-window-onunload": [
+    "API/WindowEventHandlers/onunload"
+  ],
+  "handler-worker-onmessage": [
+    "API/Worker/onmessage"
+  ],
+  "handler-worker-onmessageerror": [
+    "API/Worker/onmessageerror"
+  ],
+  "handler-workerglobalscope-onerror": [
+    "API/WorkerGlobalScope/onerror"
+  ],
+  "handler-workerglobalscope-onlanguagechange": [
+    "API/WindowEventHandlers/onlanguagechange",
+    "API/WorkerGlobalScope/onlanguagechange"
+  ],
+  "handler-workerglobalscope-onoffline": [
+    "API/WorkerGlobalScope/onoffline"
+  ],
+  "handler-workerglobalscope-ononline": [
+    "API/WorkerGlobalScope/ononline"
+  ],
+  "hashchangeevent": [
+    "API/HashChangeEvent"
+  ],
+  "hidden-state-(type=hidden)": [
+    "HTML/Element/input/hidden"
+  ],
+  "hiddenCSS": [
+    "HTML/Global_attributes/hidden"
+  ],
+  "history": [
+    "API/History_API"
+  ],
+  "htmlanchorelement": [
+    "API/HTMLAnchorElement"
+  ],
+  "htmlareaelement": [
+    "API/HTMLAreaElement"
+  ],
+  "htmlaudioelement": [
+    "API/HTMLAudioElement"
+  ],
+  "htmlbaseelement": [
+    "API/HTMLBaseElement"
+  ],
+  "htmlbodyelement": [
+    "API/HTMLBodyElement"
+  ],
+  "htmlbrelement": [
+    "API/HTMLBRElement"
+  ],
+  "htmlbuttonelement": [
+    "API/HTMLButtonElement"
+  ],
+  "htmlcanvaselement": [
+    "API/HTMLCanvasElement"
+  ],
+  "htmldataelement": [
+    "API/HTMLDataElement"
+  ],
+  "htmldatalistelement": [
+    "API/HTMLDataListElement"
+  ],
+  "htmldialogelement": [
+    "API/HTMLDialogElement"
+  ],
+  "htmldivelement": [
+    "API/HTMLDivElement"
+  ],
+  "htmldlistelement": [
+    "API/HTMLDListElement"
+  ],
+  "htmldocument": [
+    "API/HTMLDocument"
+  ],
+  "htmlelement": [
+    "API/HTMLElement"
+  ],
+  "htmlembedelement": [
+    "API/HTMLEmbedElement"
+  ],
+  "htmlfieldsetelement": [
+    "API/HTMLFieldSetElement"
+  ],
+  "htmlformcontrolscollection": [
+    "API/HTMLFormControlsCollection"
+  ],
+  "htmlformelement": [
+    "API/HTMLFormElement"
+  ],
+  "htmlframesetelement": [
+    "API/HTMLFrameSetElement"
+  ],
+  "htmlheadelement": [
+    "API/HTMLHeadElement"
+  ],
+  "htmlheadingelement": [
+    "API/HTMLHeadingElement"
+  ],
+  "htmlhrelement": [
+    "API/HTMLHRElement"
+  ],
+  "htmlhtmlelement": [
+    "API/HTMLHtmlElement"
+  ],
+  "htmlhyperlinkelementutils": [
+    "API/HTMLHyperlinkElementUtils",
+    "API/HTMLHyperlinkElementUtils/toString"
+  ],
+  "htmliframeelement": [
+    "API/HTMLIFrameElement"
+  ],
+  "htmlimageelement": [
+    "API/HTMLImageElement"
+  ],
+  "htmlinputelement": [
+    "API/HTMLInputElement"
+  ],
+  "htmllabelelement": [
+    "API/HTMLLabelElement"
+  ],
+  "htmllegendelement": [
+    "API/HTMLLegendElement"
+  ],
+  "htmllielement": [
+    "API/HTMLLIElement"
+  ],
+  "htmllinkelement": [
+    "API/HTMLLinkElement"
+  ],
+  "htmlmapelement": [
+    "API/HTMLMapElement"
+  ],
+  "htmlmediaelement": [
+    "API/HTMLMediaElement"
+  ],
+  "htmlmetaelement": [
+    "API/HTMLMetaElement"
+  ],
+  "htmlmeterelement": [
+    "API/HTMLMeterElement"
+  ],
+  "htmlmodelement": [
+    "API/HTMLModElement"
+  ],
+  "htmlobjectelement": [
+    "API/HTMLObjectElement"
+  ],
+  "htmlolistelement": [
+    "API/HTMLOListElement"
+  ],
+  "htmloptgroupelement": [
+    "API/HTMLOptGroupElement"
+  ],
+  "htmloptionelement": [
+    "API/HTMLOptionElement"
+  ],
+  "htmloutputelement": [
+    "API/HTMLOutputElement"
+  ],
+  "htmlparagraphelement": [
+    "API/HTMLParagraphElement"
+  ],
+  "htmlparamelement": [
+    "API/HTMLParamElement"
+  ],
+  "htmlpictureelement": [
+    "API/HTMLPictureElement"
+  ],
+  "htmlpreelement": [
+    "API/HTMLPreElement"
+  ],
+  "htmlprogresselement": [
+    "API/HTMLProgressElement"
+  ],
+  "htmlquoteelement": [
+    "API/HTMLQuoteElement"
+  ],
+  "htmlscriptelement": [
+    "API/HTMLScriptElement"
+  ],
+  "htmlselectelement": [
+    "API/HTMLSelectElement"
+  ],
+  "htmlslotelement": [
+    "API/HTMLSlotElement"
+  ],
+  "htmlsourceelement": [
+    "API/HTMLSourceElement"
+  ],
+  "htmlspanelement": [
+    "API/HTMLSpanElement"
+  ],
+  "htmlstyleelement": [
+    "API/HTMLStyleElement"
+  ],
+  "htmltablecaptionelement": [
+    "API/HTMLTableCaptionElement"
+  ],
+  "htmltablecellelement": [
+    "API/HTMLTableCellElement"
+  ],
+  "htmltablecolelement": [
+    "API/HTMLTableColElement"
+  ],
+  "htmltableelement": [
+    "API/HTMLTableElement"
+  ],
+  "htmltablerowelement": [
+    "API/HTMLTableRowElement"
+  ],
+  "htmltablesectionelement": [
+    "API/HTMLTableSectionElement"
+  ],
+  "htmltemplateelement": [
+    "API/HTMLTemplateElement"
+  ],
+  "htmltextareaelement": [
+    "API/HTMLTextAreaElement"
+  ],
+  "htmltimeelement": [
+    "API/HTMLTimeElement"
+  ],
+  "htmltitleelement": [
+    "API/HTMLTitleElement"
+  ],
+  "htmltrackelement": [
+    "API/HTMLTrackElement"
+  ],
+  "htmlulistelement": [
+    "API/HTMLUListElement"
+  ],
+  "htmlunknownelement": [
+    "API/HTMLUnknownElement"
+  ],
+  "htmlvideoelement": [
+    "API/HTMLVideoElement"
+  ],
+  "image-button-state-(type=image)": [
+    "HTML/Element/input/image"
+  ],
+  "imagebitmap": [
+    "API/ImageBitmap"
+  ],
+  "imagedata": [
+    "API/ImageData"
+  ],
+  "imagesmoothingquality": [
+    "API/CanvasRenderingContext2D/imageSmoothingQuality"
+  ],
+  "isindex-0": [
+    "API/HTMLIsIndexElement"
+  ],
+  "ix-handler-ondrag": [
+    "API/GlobalEventHandlers/ondrag"
+  ],
+  "ix-handler-ondragend": [
+    "API/GlobalEventHandlers/ondragend"
+  ],
+  "ix-handler-ondragenter": [
+    "API/GlobalEventHandlers/ondragenter"
+  ],
+  "ix-handler-ondragexit": [
+    "API/GlobalEventHandlers/ondragexit"
+  ],
+  "ix-handler-ondragleave": [
+    "API/GlobalEventHandlers/ondragleave"
+  ],
+  "ix-handler-ondragover": [
+    "API/GlobalEventHandlers/ondragover"
+  ],
+  "ix-handler-ondragstart": [
+    "API/GlobalEventHandlers/ondragstart"
+  ],
+  "ix-handler-ondrop": [
+    "API/GlobalEventHandlers/ondrop"
+  ],
+  "linkTypes": [
+    "HTML/Link_types"
+  ],
+  "local-date-and-time-state-(type=datetime-local)": [
+    "HTML/Element/input/datetime-local"
+  ],
+  "making-entire-documents-editable:-the-designmode-idl-attribute": [
+    "API/Document/designMode"
+  ],
+  "media-elements": [
+    "API/HTMLMediaElement/buffered"
+  ],
+  "mediaerror": [
+    "API/MediaError"
+  ],
+  "menuitem": [
+    "HTML/Element/menuitem"
+  ],
+  "message-channels": [
+    "API/MessageChannel"
+  ],
+  "message-ports": [
+    "API/MessagePort"
+  ],
+  "messageevent": [
+    "API/MessageEvent"
+  ],
+  "mimetype": [
+    "API/MimeType"
+  ],
+  "mimetypearray": [
+    "API/MimeTypeArray"
+  ],
+  "month-state-(type=month)": [
+    "HTML/Element/input/month"
+  ],
+  "names:-the-itemprop-attribute": [
+    "HTML/Global_attributes/itemprop"
+  ],
+  "navigator.online": [
+    "API/NavigatorOnLine/onLine"
+  ],
+  "navigatorconcurrenthardware": [
+    "API/NavigatorConcurrentHardware"
+  ],
+  "navigatorid": [
+    "API/NavigatorID"
+  ],
+  "navigatorlanguage": [
+    "API/NavigatorLanguage"
+  ],
+  "navigatoronline": [
+    "API/NavigatorOnLine"
+  ],
+  "navigatorplugins": [
+    "API/NavigatorPlugins"
+  ],
+  "noembed": [
+    "HTML/Element/noembed"
+  ],
+  "number-state-(type=number)": [
+    "HTML/Element/input/number"
+  ],
+  "origin:document": [
+    "API/Document/origin"
+  ],
+  "password-state-(type=password)": [
+    "HTML/Element/input/password"
+  ],
+  "pluginarray": [
+    "API/PluginArray"
+  ],
+  "printing": [
+    "API/Window/print"
+  ],
+  "promiserejectionevent": [
+    "API/PromiseRejectionEvent"
+  ],
+  "pseudo-classes": [
+    "CSS/Pseudo-classes"
+  ],
+  "radio-button-state-(type=radio)": [
+    "HTML/Element/input/radio"
+  ],
+  "radionodelist": [
+    "API/RadioNodeList"
+  ],
+  "range-state-(type=range)": [
+    "HTML/Element/input/range"
+  ],
+  "relaxing-the-same-origin-restriction": [
+    "API/Document/domain"
+  ],
+  "renderingcontext": [
+    "API/RenderingContext"
+  ],
+  "reset-button-state-(type=reset)": [
+    "HTML/Element/input/reset"
+  ],
+  "selector-active": [
+    "CSS/:active"
+  ],
+  "selector-checked": [
+    "CSS/:checked"
+  ],
+  "selector-default": [
+    "CSS/:default"
+  ],
+  "selector-defined": [
+    "CSS/:defined"
+  ],
+  "selector-disabled": [
+    "CSS/:disabled"
+  ],
+  "selector-enabled": [
+    "CSS/:enabled"
+  ],
+  "selector-focus": [
+    "CSS/:focus"
+  ],
+  "selector-hover": [
+    "CSS/:hover"
+  ],
+  "selector-in-range": [
+    "CSS/:in-range"
+  ],
+  "selector-indeterminate": [
+    "CSS/:indeterminate"
+  ],
+  "selector-invalid": [
+    "CSS/:invalid"
+  ],
+  "selector-link": [
+    "CSS/:link"
+  ],
+  "selector-ltr": [
+    "CSS/:dir"
+  ],
+  "selector-optional": [
+    "CSS/:optional"
+  ],
+  "selector-out-of-range": [
+    "CSS/:out-of-range"
+  ],
+  "selector-read-only": [
+    "CSS/:read-only"
+  ],
+  "selector-read-write": [
+    "CSS/:read-write"
+  ],
+  "selector-required": [
+    "CSS/:required"
+  ],
+  "selector-target": [
+    "CSS/:target"
+  ],
+  "selector-valid": [
+    "CSS/:valid"
+  ],
+  "selector-visited": [
+    "CSS/:visited"
+  ],
+  "server-sent-events": [
+    "API/Server-sent_events"
+  ],
+  "sharedworker": [
+    "API/SharedWorker"
+  ],
+  "sharedworkerglobalscope": [
+    "API/SharedWorkerGlobalScope"
+  ],
+  "spelling-and-grammar-checking": [
+    "HTML/Global_attributes/spellcheck"
+  ],
+  "submit-button-state-(type=submit)": [
+    "HTML/Element/input/submit"
+  ],
+  "tel-state-(type=tel)": [
+    "HTML/Element/input/tel"
+  ],
+  "text-(type=text)-state-and-search-state-(type=search)": [
+    "HTML/Element/input/search",
+    "HTML/Element/input/text"
+  ],
+  "textmetrics": [
+    "API/TextMetrics"
+  ],
+  "the-a-element": [
+    "HTML/Element/a"
+  ],
+  "the-abbr-element": [
+    "HTML/Element/abbr"
+  ],
+  "the-abstractworker-abstract-interface": [
+    "API/AbstractWorker"
+  ],
+  "the-accesskey-attribute": [
+    "HTML/Global_attributes/accesskey"
+  ],
+  "the-address-element": [
+    "HTML/Element/address"
+  ],
+  "the-area-element": [
+    "HTML/Element/area"
+  ],
+  "the-article-element": [
+    "HTML/Element/article"
+  ],
+  "the-aside-element": [
+    "HTML/Element/aside"
+  ],
+  "the-audio-element": [
+    "HTML/Element/audio"
+  ],
+  "the-b-element": [
+    "HTML/Element/b"
+  ],
+  "the-base-element": [
+    "HTML/Element/base"
+  ],
+  "the-bdi-element": [
+    "HTML/Element/bdi"
+  ],
+  "the-bdo-element": [
+    "HTML/Element/bdo"
+  ],
+  "the-blockquote-element": [
+    "HTML/Element/blockquote"
+  ],
+  "the-body-element": [
+    "HTML/Element/body"
+  ],
+  "the-br-element": [
+    "HTML/Element/br"
+  ],
+  "the-button-element": [
+    "HTML/Element/button"
+  ],
+  "the-canvas-element": [
+    "HTML/Element/canvas"
+  ],
+  "the-caption-element": [
+    "HTML/Element/caption"
+  ],
+  "the-cite-element": [
+    "HTML/Element/cite"
+  ],
+  "the-code-element": [
+    "HTML/Element/code"
+  ],
+  "the-col-element": [
+    "HTML/Element/col"
+  ],
+  "the-colgroup-element": [
+    "HTML/Element/colgroup"
+  ],
+  "the-constraint-validation-api": [
+    "API/ValidityState"
+  ],
+  "the-data-element": [
+    "HTML/Element/data"
+  ],
+  "the-datalist-element": [
+    "HTML/Element/datalist"
+  ],
+  "the-datatransfer-interface": [
+    "API/DataTransfer/DataTransfer"
+  ],
+  "the-datatransferitemlist-interface:datatransferitem": [
+    "API/DataTransferItemList/DataTransferItem"
+  ],
+  "the-dd-element": [
+    "HTML/Element/dd"
+  ],
+  "the-del-element": [
+    "HTML/Element/del"
+  ],
+  "the-details-element": [
+    "HTML/Element/details"
+  ],
+  "the-dfn-element": [
+    "HTML/Element/dfn"
+  ],
+  "the-dialog-element": [
+    "HTML/Element/dialog"
+  ],
+  "the-dir-attribute": [
+    "HTML/Global_attributes/dir"
+  ],
+  "the-div-element": [
+    "HTML/Element/div"
+  ],
+  "the-dl-element": [
+    "HTML/Element/dl"
+  ],
+  "the-document-object": [
+    "API/Document"
+  ],
+  "the-domstringlist-interface": [
+    "API/DOMStringList"
+  ],
+  "the-dragevent-interface": [
+    "API/DragEvent/DragEvent"
+  ],
+  "the-draggable-attribute": [
+    "HTML/Global_attributes/draggable"
+  ],
+  "the-dt-element": [
+    "HTML/Element/dt"
+  ],
+  "the-em-element": [
+    "HTML/Element/em"
+  ],
+  "the-embed-element": [
+    "HTML/Element/embed"
+  ],
+  "the-errorevent-interface": [
+    "API/ErrorEvent"
+  ],
+  "the-eventsource-interface": [
+    "API/EventSource"
+  ],
+  "the-fieldset-element": [
+    "HTML/Element/fieldset"
+  ],
+  "the-figcaption-element": [
+    "HTML/Element/figcaption"
+  ],
+  "the-figure-element": [
+    "HTML/Element/figure"
+  ],
+  "the-footer-element": [
+    "HTML/Element/footer"
+  ],
+  "the-form-element": [
+    "HTML/Element/form"
+  ],
+  "the-h1,-h2,-h3,-h4,-h5,-and-h6-elements": [
+    "HTML/Element/Heading_Elements"
+  ],
+  "the-head-element": [
+    "HTML/Element/head"
+  ],
+  "the-header-element": [
+    "HTML/Element/header"
+  ],
+  "the-hgroup-element": [
+    "HTML/Element/hgroup"
+  ],
+  "the-hidden-attribute": [
+    "HTML/Global_attributes/hidden"
+  ],
+  "the-history-interface": [
+    "API/History",
+    "API/Window/history"
+  ],
+  "the-hr-element": [
+    "HTML/Element/hr"
+  ],
+  "the-html-element": [
+    "HTML/Element/html"
+  ],
+  "the-i-element": [
+    "HTML/Element/i"
+  ],
+  "the-id-attribute": [
+    "HTML/Global_attributes/id"
+  ],
+  "the-iframe-element": [
+    "HTML/Element/iframe"
+  ],
+  "the-img-element": [
+    "HTML/Element/img"
+  ],
+  "the-innertext-idl-attribute": [
+    "API/Node/innerText"
+  ],
+  "the-input-element": [
+    "HTML/Element/input"
+  ],
+  "the-ins-element": [
+    "HTML/Element/ins"
+  ],
+  "the-kbd-element": [
+    "HTML/Element/kbd"
+  ],
+  "the-label-element": [
+    "HTML/Element/label"
+  ],
+  "the-lang-and-xml:lang-attributes": [
+    "HTML/Global_attributes/lang"
+  ],
+  "the-legend-element": [
+    "HTML/Element/legend"
+  ],
+  "the-li-element": [
+    "HTML/Element/li"
+  ],
+  "the-link-element": [
+    "HTML/Element/link"
+  ],
+  "the-location-interface": [
+    "API/Document/location",
+    "API/Location",
+    "API/Window/location"
+  ],
+  "the-main-element": [
+    "HTML/Element/main"
+  ],
+  "the-map-element": [
+    "HTML/Element/map"
+  ],
+  "the-mark-element": [
+    "HTML/Element/mark"
+  ],
+  "the-marquee-element-2": [
+    "HTML/Element/marquee"
+  ],
+  "the-menu-element": [
+    "HTML/Element/menu"
+  ],
+  "the-meta-element": [
+    "HTML/Element/meta"
+  ],
+  "the-meter-element": [
+    "HTML/Element/meter"
+  ],
+  "the-nav-element": [
+    "HTML/Element/nav"
+  ],
+  "the-noscript-element": [
+    "HTML/Element/noscript"
+  ],
+  "the-object-element": [
+    "HTML/Element/object"
+  ],
+  "the-offscreencanvas-interface": [
+    "API/OffscreenCanvas"
+  ],
+  "the-ol-element": [
+    "HTML/Element/ol"
+  ],
+  "the-optgroup-element": [
+    "HTML/Element/optgroup"
+  ],
+  "the-option-element": [
+    "HTML/Element/option"
+  ],
+  "the-output-element": [
+    "HTML/Element/output"
+  ],
+  "the-p-element": [
+    "HTML/Element/p"
+  ],
+  "the-pagetransitionevent-interface": [
+    "API/PageTransitionEvent"
+  ],
+  "the-param-element": [
+    "HTML/Element/param"
+  ],
+  "the-picture-element": [
+    "HTML/Element/picture"
+  ],
+  "the-pre-element": [
+    "HTML/Element/pre"
+  ],
+  "the-progress-element": [
+    "HTML/Element/progress"
+  ],
+  "the-promiserejectionevent-interface": [
+    "API/PromiseRejectionEvent/PromiseRejectionEvent"
+  ],
+  "the-q-element": [
+    "HTML/Element/q"
+  ],
+  "the-rp-element": [
+    "HTML/Element/rp"
+  ],
+  "the-rt-element": [
+    "HTML/Element/rt"
+  ],
+  "the-ruby-element": [
+    "HTML/Element/ruby"
+  ],
+  "the-s-element": [
+    "HTML/Element/s"
+  ],
+  "the-samp-element": [
+    "HTML/Element/samp"
+  ],
+  "the-script-element": [
+    "HTML/Element/script"
+  ],
+  "the-section-element": [
+    "HTML/Element/section"
+  ],
+  "the-select-element": [
+    "HTML/Element/select"
+  ],
+  "the-slot-element": [
+    "HTML/Element/slot"
+  ],
+  "the-small-element": [
+    "HTML/Element/small"
+  ],
+  "the-source-element": [
+    "HTML/Element/source"
+  ],
+  "the-span-element": [
+    "HTML/Element/span"
+  ],
+  "the-storage-interface": [
+    "API/Storage"
+  ],
+  "the-strong-element": [
+    "HTML/Element/strong"
+  ],
+  "the-style-attribute": [
+    "HTML/Global_attributes/style"
+  ],
+  "the-style-element": [
+    "HTML/Element/style"
+  ],
+  "the-sub-and-sup-elements": [
+    "HTML/Element/sub",
+    "HTML/Element/sup"
+  ],
+  "the-summary-element": [
+    "HTML/Element/summary"
+  ],
+  "the-table-element": [
+    "HTML/Element/table"
+  ],
+  "the-tbody-element": [
+    "HTML/Element/tbody"
+  ],
+  "the-td-element": [
+    "HTML/Element/td"
+  ],
+  "the-template-element": [
+    "HTML/Element/template"
+  ],
+  "the-textarea-element": [
+    "HTML/Element/textarea"
+  ],
+  "the-tfoot-element": [
+    "HTML/Element/tfoot"
+  ],
+  "the-th-element": [
+    "HTML/Element/th"
+  ],
+  "the-thead-element": [
+    "HTML/Element/thead"
+  ],
+  "the-time-element": [
+    "HTML/Element/time"
+  ],
+  "the-title-attribute": [
+    "HTML/Global_attributes/title"
+  ],
+  "the-title-element": [
+    "HTML/Element/title"
+  ],
+  "the-tr-element": [
+    "HTML/Element/tr"
+  ],
+  "the-track-element": [
+    "HTML/Element/track"
+  ],
+  "the-u-element": [
+    "HTML/Element/u"
+  ],
+  "the-ul-element": [
+    "HTML/Element/ul"
+  ],
+  "the-var-element": [
+    "HTML/Element/var"
+  ],
+  "the-video-element": [
+    "HTML/Element/video"
+  ],
+  "the-wbr-element": [
+    "HTML/Element/wbr"
+  ],
+  "the-websocket-interface": [
+    "API/WebSocket"
+  ],
+  "time-ranges": [
+    "API/TimeRanges"
+  ],
+  "time-state-(type=time)": [
+    "HTML/Element/input/time"
+  ],
+  "transferable-objects": [
+    "API/Transferable"
+  ],
+  "tt": [
+    "HTML/Element/tt"
+  ],
+  "url-state-(type=url)": [
+    "HTML/Element/input/url"
+  ],
+  "webstorage": [
+    "API/Web_Storage_API",
+    "API/Web_Storage_API/Using_the_Web_Storage_API"
+  ],
+  "week-state-(type=week)": [
+    "HTML/Element/input/week"
+  ],
+  "windoweventhandlers": [
+    "API/WindowEventHandlers"
+  ],
+  "windoworworkerglobalscope-mixin": [
+    "API/WindowOrWorkerGlobalScope"
+  ],
+  "worker": [
+    "API/Worker"
+  ],
+  "workerglobalscope": [
+    "API/WorkerGlobalScope"
+  ],
+  "workerlocation": [
+    "API/WorkerLocation"
+  ],
+  "workernavigator": [
+    "API/WorkerNavigator"
+  ],
+  "workers": [
+    "API/Web_Workers_API",
+    "API/Web_Workers_API/Using_web_workers"
+  ]
+}
